@@ -1,0 +1,11 @@
+prefix=/usr
+exec_prefix=${prefix}
+libdir=${exec_prefix}/lib
+sharedlibdir=${libdir}
+includedir=${prefix}/include
+
+Name: zlib
+Description: The zlib Library
+Version: 1.2.5
+Cflags: -I${includedir}
+Libs: -L${libdir} -L${sharedlibdir} -lz

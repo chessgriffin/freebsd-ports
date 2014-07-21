@@ -1,0 +1,10 @@
+--- ./help/Makefile.in.orig	2014-07-20 10:06:05.678621430 -0400
++++ ./help/Makefile.in	2014-07-20 10:06:39.251638921 -0400
+@@ -436,7 +436,6 @@
+ 	maintainer-clean-generic mostlyclean mostlyclean-generic pdf \
+ 	pdf-am ps ps-am tags-am uninstall uninstall-am
+ 
+-@YELP_HELP_RULES@
+ 
+ # Tell versions [3.59,3.63) of GNU make to not export all variables.
+ # Otherwise a system limit (for SysV at least) may be exceeded.

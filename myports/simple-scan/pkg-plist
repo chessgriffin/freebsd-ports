@@ -1,0 +1,218 @@
+%%DATADIR%%/icons/hicolor/16x16/actions/object-crop.png
+%%DATADIR%%/icons/hicolor/22x22/actions/object-crop.png
+%%DATADIR%%/icons/hicolor/24x24/actions/object-crop.png
+%%DATADIR%%/icons/hicolor/32x32/actions/object-crop.png
+%%DATADIR%%/icons/hicolor/48x48/actions/object-crop.png
+%%DATADIR%%/icons/hicolor/scalable/actions/object-crop.svg
+bin/simple-scan
+lib/locale/af/LC_MESSAGES/simple-scan.mo
+lib/locale/ar/LC_MESSAGES/simple-scan.mo
+lib/locale/ast/LC_MESSAGES/simple-scan.mo
+lib/locale/az/LC_MESSAGES/simple-scan.mo
+lib/locale/bg/LC_MESSAGES/simple-scan.mo
+lib/locale/bo/LC_MESSAGES/simple-scan.mo
+lib/locale/ca/LC_MESSAGES/simple-scan.mo
+lib/locale/ca@valencia/LC_MESSAGES/simple-scan.mo
+lib/locale/cs/LC_MESSAGES/simple-scan.mo
+lib/locale/da/LC_MESSAGES/simple-scan.mo
+lib/locale/de/LC_MESSAGES/simple-scan.mo
+lib/locale/el/LC_MESSAGES/simple-scan.mo
+lib/locale/en_GB/LC_MESSAGES/simple-scan.mo
+lib/locale/eo/LC_MESSAGES/simple-scan.mo
+lib/locale/es/LC_MESSAGES/simple-scan.mo
+lib/locale/et/LC_MESSAGES/simple-scan.mo
+lib/locale/eu/LC_MESSAGES/simple-scan.mo
+lib/locale/fi/LC_MESSAGES/simple-scan.mo
+lib/locale/fr/LC_MESSAGES/simple-scan.mo
+lib/locale/gd/LC_MESSAGES/simple-scan.mo
+lib/locale/gl/LC_MESSAGES/simple-scan.mo
+lib/locale/he/LC_MESSAGES/simple-scan.mo
+lib/locale/hr/LC_MESSAGES/simple-scan.mo
+lib/locale/hu/LC_MESSAGES/simple-scan.mo
+lib/locale/hy/LC_MESSAGES/simple-scan.mo
+lib/locale/id/LC_MESSAGES/simple-scan.mo
+lib/locale/it/LC_MESSAGES/simple-scan.mo
+lib/locale/ja/LC_MESSAGES/simple-scan.mo
+lib/locale/kk/LC_MESSAGES/simple-scan.mo
+lib/locale/km/LC_MESSAGES/simple-scan.mo
+lib/locale/ky/LC_MESSAGES/simple-scan.mo
+lib/locale/lt/LC_MESSAGES/simple-scan.mo
+lib/locale/lv/LC_MESSAGES/simple-scan.mo
+lib/locale/mhr/LC_MESSAGES/simple-scan.mo
+lib/locale/ms/LC_MESSAGES/simple-scan.mo
+lib/locale/my/LC_MESSAGES/simple-scan.mo
+lib/locale/nb/LC_MESSAGES/simple-scan.mo
+lib/locale/nl/LC_MESSAGES/simple-scan.mo
+lib/locale/oc/LC_MESSAGES/simple-scan.mo
+lib/locale/pa/LC_MESSAGES/simple-scan.mo
+lib/locale/pl/LC_MESSAGES/simple-scan.mo
+lib/locale/pt/LC_MESSAGES/simple-scan.mo
+lib/locale/pt_BR/LC_MESSAGES/simple-scan.mo
+lib/locale/ro/LC_MESSAGES/simple-scan.mo
+lib/locale/ru/LC_MESSAGES/simple-scan.mo
+lib/locale/sd/LC_MESSAGES/simple-scan.mo
+lib/locale/se/LC_MESSAGES/simple-scan.mo
+lib/locale/shn/LC_MESSAGES/simple-scan.mo
+lib/locale/sk/LC_MESSAGES/simple-scan.mo
+lib/locale/sl/LC_MESSAGES/simple-scan.mo
+lib/locale/sq/LC_MESSAGES/simple-scan.mo
+lib/locale/sr/LC_MESSAGES/simple-scan.mo
+lib/locale/sv/LC_MESSAGES/simple-scan.mo
+lib/locale/te/LC_MESSAGES/simple-scan.mo
+lib/locale/th/LC_MESSAGES/simple-scan.mo
+lib/locale/tr/LC_MESSAGES/simple-scan.mo
+lib/locale/ug/LC_MESSAGES/simple-scan.mo
+lib/locale/uk/LC_MESSAGES/simple-scan.mo
+lib/locale/ur/LC_MESSAGES/simple-scan.mo
+lib/locale/uz/LC_MESSAGES/simple-scan.mo
+lib/locale/vi/LC_MESSAGES/simple-scan.mo
+lib/locale/zh_CN/LC_MESSAGES/simple-scan.mo
+lib/locale/zh_TW/LC_MESSAGES/simple-scan.mo
+man/man1/simple-scan.1.gz
+share/appdata/simple-scan.appdata.xml
+share/applications/simple-scan.desktop
+@dirrm share/glib-2.0/schemas
+@dirrm share/glib-2.0
+@dirrm share/appdata
+@dirrm lib/locale/zh_TW/LC_MESSAGES
+@dirrm lib/locale/zh_TW
+@dirrm lib/locale/zh_CN/LC_MESSAGES
+@dirrm lib/locale/zh_CN
+@dirrm lib/locale/vi/LC_MESSAGES
+@dirrm lib/locale/vi
+@dirrm lib/locale/uz/LC_MESSAGES
+@dirrm lib/locale/uz
+@dirrm lib/locale/ur/LC_MESSAGES
+@dirrm lib/locale/ur
+@dirrm lib/locale/uk/LC_MESSAGES
+@dirrm lib/locale/uk
+@dirrm lib/locale/ug/LC_MESSAGES
+@dirrm lib/locale/ug
+@dirrm lib/locale/tr/LC_MESSAGES
+@dirrm lib/locale/tr
+@dirrm lib/locale/th/LC_MESSAGES
+@dirrm lib/locale/th
+@dirrm lib/locale/te/LC_MESSAGES
+@dirrm lib/locale/te
+@dirrm lib/locale/sv/LC_MESSAGES
+@dirrm lib/locale/sv
+@dirrm lib/locale/sr/LC_MESSAGES
+@dirrm lib/locale/sr
+@dirrm lib/locale/sq/LC_MESSAGES
+@dirrm lib/locale/sq
+@dirrm lib/locale/sl/LC_MESSAGES
+@dirrm lib/locale/sl
+@dirrm lib/locale/sk/LC_MESSAGES
+@dirrm lib/locale/sk
+@dirrm lib/locale/shn/LC_MESSAGES
+@dirrm lib/locale/shn
+@dirrm lib/locale/se/LC_MESSAGES
+@dirrm lib/locale/se
+@dirrm lib/locale/sd/LC_MESSAGES
+@dirrm lib/locale/sd
+@dirrm lib/locale/ru/LC_MESSAGES
+@dirrm lib/locale/ru
+@dirrm lib/locale/ro/LC_MESSAGES
+@dirrm lib/locale/ro
+@dirrm lib/locale/pt_BR/LC_MESSAGES
+@dirrm lib/locale/pt_BR
+@dirrm lib/locale/pt/LC_MESSAGES
+@dirrm lib/locale/pt
+@dirrm lib/locale/pl/LC_MESSAGES
+@dirrm lib/locale/pl
+@dirrm lib/locale/pa/LC_MESSAGES
+@dirrm lib/locale/pa
+@dirrm lib/locale/oc/LC_MESSAGES
+@dirrm lib/locale/oc
+@dirrm lib/locale/nl/LC_MESSAGES
+@dirrm lib/locale/nl
+@dirrm lib/locale/nb/LC_MESSAGES
+@dirrm lib/locale/nb
+@dirrm lib/locale/my/LC_MESSAGES
+@dirrm lib/locale/my
+@dirrm lib/locale/ms/LC_MESSAGES
+@dirrm lib/locale/ms
+@dirrm lib/locale/mhr/LC_MESSAGES
+@dirrm lib/locale/mhr
+@dirrm lib/locale/lv/LC_MESSAGES
+@dirrm lib/locale/lv
+@dirrm lib/locale/lt/LC_MESSAGES
+@dirrm lib/locale/lt
+@dirrm lib/locale/ky/LC_MESSAGES
+@dirrm lib/locale/ky
+@dirrm lib/locale/km/LC_MESSAGES
+@dirrm lib/locale/km
+@dirrm lib/locale/kk/LC_MESSAGES
+@dirrm lib/locale/kk
+@dirrm lib/locale/ja/LC_MESSAGES
+@dirrm lib/locale/ja
+@dirrm lib/locale/it/LC_MESSAGES
+@dirrm lib/locale/it
+@dirrm lib/locale/id/LC_MESSAGES
+@dirrm lib/locale/id
+@dirrm lib/locale/hy/LC_MESSAGES
+@dirrm lib/locale/hy
+@dirrm lib/locale/hu/LC_MESSAGES
+@dirrm lib/locale/hu
+@dirrm lib/locale/hr/LC_MESSAGES
+@dirrm lib/locale/hr
+@dirrm lib/locale/he/LC_MESSAGES
+@dirrm lib/locale/he
+@dirrm lib/locale/gl/LC_MESSAGES
+@dirrm lib/locale/gl
+@dirrm lib/locale/gd/LC_MESSAGES
+@dirrm lib/locale/gd
+@dirrm lib/locale/fr/LC_MESSAGES
+@dirrm lib/locale/fr
+@dirrm lib/locale/fi/LC_MESSAGES
+@dirrm lib/locale/fi
+@dirrm lib/locale/eu/LC_MESSAGES
+@dirrm lib/locale/eu
+@dirrm lib/locale/et/LC_MESSAGES
+@dirrm lib/locale/et
+@dirrm lib/locale/es/LC_MESSAGES
+@dirrm lib/locale/es
+@dirrm lib/locale/eo/LC_MESSAGES
+@dirrm lib/locale/eo
+@dirrm lib/locale/en_GB/LC_MESSAGES
+@dirrm lib/locale/en_GB
+@dirrm lib/locale/el/LC_MESSAGES
+@dirrm lib/locale/el
+@dirrm lib/locale/de/LC_MESSAGES
+@dirrm lib/locale/de
+@dirrm lib/locale/da/LC_MESSAGES
+@dirrm lib/locale/da
+@dirrm lib/locale/cs/LC_MESSAGES
+@dirrm lib/locale/cs
+@dirrm lib/locale/ca@valencia/LC_MESSAGES
+@dirrm lib/locale/ca@valencia
+@dirrm lib/locale/ca/LC_MESSAGES
+@dirrm lib/locale/ca
+@dirrm lib/locale/bo/LC_MESSAGES
+@dirrm lib/locale/bo
+@dirrm lib/locale/bg/LC_MESSAGES
+@dirrm lib/locale/bg
+@dirrm lib/locale/az/LC_MESSAGES
+@dirrm lib/locale/az
+@dirrm lib/locale/ast/LC_MESSAGES
+@dirrm lib/locale/ast
+@dirrm lib/locale/ar/LC_MESSAGES
+@dirrm lib/locale/ar
+@dirrm lib/locale/af/LC_MESSAGES
+@dirrm lib/locale/af
+@dirrm lib/locale
+@dirrm %%DATADIR%%/icons/hicolor/scalable/actions
+@dirrm %%DATADIR%%/icons/hicolor/scalable
+@dirrm %%DATADIR%%/icons/hicolor/48x48/actions
+@dirrm %%DATADIR%%/icons/hicolor/48x48
+@dirrm %%DATADIR%%/icons/hicolor/32x32/actions
+@dirrm %%DATADIR%%/icons/hicolor/32x32
+@dirrm %%DATADIR%%/icons/hicolor/24x24/actions
+@dirrm %%DATADIR%%/icons/hicolor/24x24
+@dirrm %%DATADIR%%/icons/hicolor/22x22/actions
+@dirrm %%DATADIR%%/icons/hicolor/22x22
+@dirrm %%DATADIR%%/icons/hicolor/16x16/actions
+@dirrm %%DATADIR%%/icons/hicolor/16x16
+@dirrm %%DATADIR%%/icons/hicolor
+@dirrm %%DATADIR%%/icons
+@dirrm %%DATADIR%%

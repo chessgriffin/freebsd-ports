@@ -1,0 +1,74 @@
+--- ./configure.orig	2014-04-30 17:16:21.000000000 -0400
++++ ./configure	2014-07-20 10:03:40.495627767 -0400
+@@ -4378,7 +4378,6 @@
+     zlib
+     cairo
+     gdk-pixbuf-2.0
+-    gudev-1.0
+ \""; } >&5
+   ($PKG_CONFIG --exists --print-errors "
+     glib-2.0 >= 2.32
+@@ -4388,7 +4387,6 @@
+     zlib
+     cairo
+     gdk-pixbuf-2.0
+-    gudev-1.0
+ ") 2>&5
+   ac_status=$?
+   $as_echo "$as_me:${as_lineno-$LINENO}: \$? = $ac_status" >&5
+@@ -4401,7 +4399,6 @@
+     zlib
+     cairo
+     gdk-pixbuf-2.0
+-    gudev-1.0
+ " 2>/dev/null`
+ 		      test "x$?" != "x0" && pkg_failed=yes
+ else
+@@ -4422,7 +4419,6 @@
+     zlib
+     cairo
+     gdk-pixbuf-2.0
+-    gudev-1.0
+ \""; } >&5
+   ($PKG_CONFIG --exists --print-errors "
+     glib-2.0 >= 2.32
+@@ -4432,7 +4428,6 @@
+     zlib
+     cairo
+     gdk-pixbuf-2.0
+-    gudev-1.0
+ ") 2>&5
+   ac_status=$?
+   $as_echo "$as_me:${as_lineno-$LINENO}: \$? = $ac_status" >&5
+@@ -4445,7 +4440,6 @@
+     zlib
+     cairo
+     gdk-pixbuf-2.0
+-    gudev-1.0
+ " 2>/dev/null`
+ 		      test "x$?" != "x0" && pkg_failed=yes
+ else
+@@ -4475,7 +4469,6 @@
+     zlib
+     cairo
+     gdk-pixbuf-2.0
+-    gudev-1.0
+ " 2>&1`
+         else
+ 	        SIMPLE_SCAN_PKG_ERRORS=`$PKG_CONFIG --print-errors --cflags --libs "
+@@ -4486,7 +4479,6 @@
+     zlib
+     cairo
+     gdk-pixbuf-2.0
+-    gudev-1.0
+ " 2>&1`
+         fi
+ 	# Put the nasty error message in config.log where it belongs
+@@ -4500,7 +4492,6 @@
+     zlib
+     cairo
+     gdk-pixbuf-2.0
+-    gudev-1.0
+ ) were not met:
+ 
+ $SIMPLE_SCAN_PKG_ERRORS

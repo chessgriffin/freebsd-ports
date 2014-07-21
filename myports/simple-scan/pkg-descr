@@ -1,0 +1,7 @@
+Simple Scan is an easy-to-use gui scanning application, designed to let users
+connect their scanner and quickly have the image or document scanned in an
+appropriate format.  Simple Scan is essentially a front-end to SANE, which is
+the same backend used by XSANE.  This means that all existing scanners that
+function with XSANE should also work with Simple Scan.
+
+https://launchpad.net/simple-scan

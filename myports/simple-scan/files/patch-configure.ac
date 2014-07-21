@@ -1,0 +1,10 @@
+--- ./configure.ac.orig	2014-04-30 17:16:01.000000000 -0400
++++ ./configure.ac	2014-07-20 10:03:40.496628253 -0400
+@@ -28,7 +28,6 @@
+     zlib
+     cairo
+     gdk-pixbuf-2.0
+-    gudev-1.0
+ ])
+ 
+ PKG_CHECK_MODULES(COLORD, [
